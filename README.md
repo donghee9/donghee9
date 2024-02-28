@@ -2,7 +2,7 @@
 
 
 🔭  I’m currently working on the **"SettleUP"** project, a multi-receipt-based cost optimization program for various groups.</br> </br> 
-👯  I’m looking to collaborate on the **front-end** for the **OneQJob** and **IzMaterial** projects. 
+👯  I’m looking to collaborate on the **FE Developer** for the **OneQJob** and **IzMaterial** projects. 
 
 - The OneQJob project is a daily freelance matching site (currently in its early stages).</br>
 - The IzMaterial project manages total profits for multiple stores in businesses (most of the back-end code for the project has been completed). </br>
