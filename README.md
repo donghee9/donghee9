@@ -9,7 +9,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donghee9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donghee9&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 **Languages & Frameworks**: ![Java](https://img.shields.io/badge/Java-EE4266?style=flat-square&logo=Java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-FFD23F?style=flat-square&logo=JavaScript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-50C4ED?style=flat-square&logo=TypeScript&logoColor=white)
