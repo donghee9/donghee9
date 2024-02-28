@@ -7,7 +7,7 @@
 - The OneQJob project is a daily freelance matching site (currently in its early stages).</br>
 - The IzMaterial project manages total profits for multiple stores in businesses (most of the back-end code for the project has been completed). </br>
 
-please contact -> <a href="mailto:seodonghee456@gmail.com">
+please contact -> <a href="mailto:seodonghee45@nam.com">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/mail.png" alt="Email" title="Send Email" width="30" height="30" />
 </a>
 
@@ -15,7 +15,9 @@ please contact -> <a href="mailto:seodonghee456@gmail.com">
 
 ### Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donghee9&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donghee9&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donghee9&show_icons=true&theme=merko)
 
 **Languages & Frameworks**: ![Java](https://img.shields.io/badge/Java-EE4266?style=flat-square&logo=Java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-FFD23F?style=flat-square&logo=JavaScript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-50C4ED?style=flat-square&logo=TypeScript&logoColor=white)
 
