@@ -2,7 +2,6 @@
 
 
 🔭 I’m currently working on  ... "**SettleUP**" project, **a multi-receipt-based cost optimization program for various groups**.</br> </br> 
-🌱 I’m currently learning ... Java , Spring ,JPA ,Security  </br> </br> 
 👯 I’m looking to collaborate **FE** on  **OneQJob**, and **IzMaterial**.</br> 
 1. **OneQJob project** </br>  a daily freelance matching site (OneQJob is currently in its early stages) </br> </br> 
 2. **IzMaterial project** </br> a program for managing total profits of multiple stores for businesses (most of the backend code for Biz Material has been completed)
@@ -19,3 +18,11 @@
 **Databases**: ![MongoDB](https://img.shields.io/badge/MongoDB-78A083?style=flat-square&logo=MongoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-59B4C3?style=flat-square&logo=MySQL&logoColor=white)
 
 **ORM** : ![JPA](https://img.shields.io/badge/JPA-000000?style=flat-square&logo=Jpa&logoColor=white)
+
+
+**The repository structure is as follows**:
+
+TeamProject - Projects Deployed or To Be Deployed to a Web with Frontend
+SoloProject - Implemented with Backend CLI only
+Practice - For Development Skills Improvement
+Resources - Project Related Resources
