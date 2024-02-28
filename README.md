@@ -1,4 +1,4 @@
-### I am a developer interested in cost and revenue optimization. 👋
+###  interested in cost and revenue optimization. 👋
 
 
 🔭 I’m currently working on  ... </br> "SettleUP" project, a multi-receipt-based cost optimization program for various groups.</br> </br> 
