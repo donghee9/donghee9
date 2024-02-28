@@ -8,4 +8,7 @@
 2. Biz Material project </br> a program for managing total profits of multiple stores for businesses (most of the backend code for Biz Material has been completed)
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donghee9&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donghee9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seodonghee)](https://github.com/anuraghazra/github-readme-stats)
