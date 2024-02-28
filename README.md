@@ -13,8 +13,6 @@ please contact -> <a href="mailto:seodonghee45@nam.com">
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Stack
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donghee9&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donghee9&show_icons=true&theme=merko)
