@@ -13,7 +13,7 @@ please contact -> <a href="mailto:seodonghee456@gmail.com">
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Stack**
+### Stack
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donghee9&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -26,7 +26,7 @@ please contact -> <a href="mailto:seodonghee456@gmail.com">
 **ORM** : ![JPA](https://img.shields.io/badge/JPA-000000?style=flat-square&logo=Jpa&logoColor=white)
 
 ---------------------------------------------------------------------------------------------------------------------------
-**The repository structure is as follows**:
+### The repository structure is as follows:
 
 - **TeamProject** - Projects Deployed or To Be Deployed to a Web with Frontend </br>
 - **SoloProject** - Implemented with Backend CLI only</br>
