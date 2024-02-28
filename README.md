@@ -2,9 +2,11 @@
 
 
 🔭  I’m currently working on the **"SettleUP"** project, a multi-receipt-based cost optimization program for various groups.</br> </br> 
-👯  I’m looking to collaborate on the **front-end** for the **OneQJob** and **IzMaterial** projects.</br> 
+👯  I’m looking to collaborate on the **front-end** for the **OneQJob** and **IzMaterial** projects. [![Gmail](https://img.shields.io/badge/Gmail-D04848?style=flat-square&logo=Gmail&logoColor=white)](mailto:seodonghee456@gmail.com)
 - The OneQJob project is a daily freelance matching site (currently in its early stages).</br>
-- The IzMaterial project manages total profits for multiple stores in businesses (most of the back-end code for the project has been completed).
+- The IzMaterial project manages total profits for multiple stores in businesses (most of the back-end code for the project has been completed). </br>
+
+
 
 **Stack**
 
