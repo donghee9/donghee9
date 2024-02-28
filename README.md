@@ -11,11 +11,11 @@ please contact -> <a href="mailto:seodonghee456@gmail.com">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/mail.png" alt="Email" title="Send Email" width="30" height="30" />
 </a>
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Stack**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donghee9&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 
 **Languages & Frameworks**: ![Java](https://img.shields.io/badge/Java-EE4266?style=flat-square&logo=Java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-FFD23F?style=flat-square&logo=JavaScript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-50C4ED?style=flat-square&logo=TypeScript&logoColor=white)
 
@@ -25,7 +25,7 @@ please contact -> <a href="mailto:seodonghee456@gmail.com">
 
 **ORM** : ![JPA](https://img.shields.io/badge/JPA-000000?style=flat-square&logo=Jpa&logoColor=white)
 
-
+---------------------------------------------------------------------------------------------------------------------------
 **The repository structure is as follows**:
 
 - **TeamProject** - Projects Deployed or To Be Deployed to a Web with Frontend </br>
