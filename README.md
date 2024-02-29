@@ -27,8 +27,8 @@ please contact -> <a href="mailto:seodonghee45@nam.com">
 
 ---------------------------------------------------------------------------------------------------------------------------
 ### The repository structure is as follows:
-
-- **TeamProject** - Projects Deployed or To Be Deployed to a Web with Frontend </br>
-- **SoloProject** - Implemented with Backend CLI only</br>
+To directly visit the project, please click on the icon below.
+- ![TeamProject](https://img.shields.io/badge/TeamProject-EE4266?style=flat-square&logo=GitHub&logoColor=white) - Projects Deployed or To Be Deployed to a Web with Frontend
+- ![SoloProject](https://img.shields.io/badge/SoloProject-3498DB?style=flat-square&logo=GitHub&logoColor=white) - Implemented with Backend CLI only
 - **Practice** - Aimed at Development Skills Improvement</br>
 - **Resources** - Related to Projects
