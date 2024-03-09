@@ -7,7 +7,7 @@
 - The OneQJob project is a daily freelance matching site (currently in its early stages).</br>
 - The IzMaterial project manages total profits for multiple stores in businesses (most of the back-end code for the project has been completed). </br>
 
-please contact -> <a href="mailto:seodonghee45@nam.com">
+please contact -> <a href="mailto:seodonghee45@naver.com">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/mail.png" alt="Email" title="Send Email" width="30" height="30" />
 </a>
 
