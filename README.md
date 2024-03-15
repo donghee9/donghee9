@@ -11,6 +11,8 @@ please contact -> <a href="mailto:seodonghee45@naver.com">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/mail.png" alt="Email" title="Send Email" width="30" height="30" />
 </a>
 
+please contact-> seodonghee45@naver.com
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donghee9&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)</br>
