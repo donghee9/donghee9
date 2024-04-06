@@ -16,7 +16,6 @@ please contact-> seodonghee45@naver.com
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donghee9&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)</br>
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@hee&theme=merko)
 
 **Languages & Frameworks**: ![Java](https://img.shields.io/badge/Java-EE4266?style=flat-square&logo=Java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-FFD23F?style=flat-square&logo=JavaScript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-50C4ED?style=flat-square&logo=TypeScript&logoColor=white)
 
