@@ -25,6 +25,10 @@ please contact-> seodonghee45@naver.com
 ![AZSQL](https://img.shields.io/badge/AZSQL-50C4ED?style=flat-square&logo=MySQL&logoColor=white) 
 **ORM** : ![JPA](https://img.shields.io/badge/JPA-000000?style=flat-square&logo=Jpa&logoColor=white)
 
+**Deploy**: ![GithubAction](https://img.shields.io/badge/GithubAction-EE4266?style=flat-square&logo=Github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FFD23F?style=flat-square&logo=AWS&logoColor=white) 
+ ![S3](https://img.shields.io/badge/S3-A5DD9B?style=flat-square&logo=S3&logoColor=white)
+
 ---------------------------------------------------------------------------------------------------------------------------
 ### The repository structure is as follows:
 - [![TeamProject](https://img.shields.io/badge/TeamProject-EE4266?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/donghee9?tab=repositories&q=TeamProject&type=&language=&sort=name) - Projects Deployed or To Be Deployed to a Web with Frontend
