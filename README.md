@@ -44,7 +44,6 @@ please contact-> seodonghee45@naver.com
 **Languages & Frameworks**:
 ![Java_corretto_17](https://img.shields.io/badge/Java_corretto_17-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD23F?style=flat-square&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-50C4ED?style=flat-square&logo=TypeScript&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-A5DD9B?style=flat-square&logo=Shell&logoColor=white)
 
 **Backend Frameworks**:
@@ -78,18 +77,12 @@ please contact-> seodonghee45@naver.com
 **Security**:
 ![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=flat-square&logo=oauth&logoColor=white)
 ![BCrypt](https://img.shields.io/badge/BCrypt-FF4500?style=flat-square&logo=security&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0078D4?style=flat-square&logo=Linux&logoColor=white)
 
-**Testing**:
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-9F00C5?style=flat-square&logo=mockito&logoColor=white)
 
 **Utilities**:
 ![p6spy](https://img.shields.io/badge/p6spy-00ACC1?style=flat-square&logo=database&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-ED8B00?style=flat-square&logo=json-web-tokens&logoColor=white)
 ![JAXB](https://img.shields.io/badge/JAXB-9C27B0?style=flat-square&logo=java&logoColor=white)
-![Embedded Tomcat](https://img.shields.io/badge/Embedded_Tomcat-FF6F00?style=flat-square&logo=apache-tomcat&logoColor=white)
-![Embedded Redis](https://img.shields.io/badge/Embedded_Redis-DC143C?style=flat-square&logo=redis&logoColor=white)
 ![Mail](https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=white)
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-007396?style=flat-square&logo=nodemailer&logoColor=white)
 
